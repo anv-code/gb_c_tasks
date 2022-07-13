@@ -3,6 +3,7 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
+Console.Clear();
 int randomNum = new Random().Next(10, 1000);
 int coupleNum = randomNum / 100;
 

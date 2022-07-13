@@ -3,6 +3,7 @@
 // 782 -> 8
 // 918 -> 1
 
+Console.Clear();
 int randomNum = new Random().Next(100, 1000);
 
 int SecondNumber(int number)
