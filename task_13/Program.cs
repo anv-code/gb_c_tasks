@@ -4,16 +4,12 @@
 // 32679 -> 6
 
 Console.Clear();
-int randomNum = new Random().Next(10, 1000);
-int coupleNum = randomNum / 100;
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+string numberStr = Convert.ToString(number);
 
-int ThirdNum(int number)
-{
-    return number % 10;
-}
-
-if (coupleNum == 0) Console.WriteLine($"{randomNum} -> Третьей цифры нет");
-else Console.WriteLine($"{randomNum} -> {ThirdNum(randomNum)}");
+if (numberStr.Length > 2) Console.WriteLine($"{number} -> {numberStr[2]}");
+else Console.WriteLine($"{number} -> Третьей цифры нет");
 
 
 
