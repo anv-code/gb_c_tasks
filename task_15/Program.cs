@@ -7,8 +7,13 @@ Console.Clear();
 Console.Write("Введите цифру от 1 до 7 обозачающую день недели: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-if (num == 6 || num == 7) Console.WriteLine(num + " -> да");
-else if (num > 7 || num < 1) Console.WriteLine("Указанное число находится вне диапазона");
-else Console.WriteLine(num + " -> нет");
+void Weekend(int number)
+{
+    if (number == 6 || number == 7) Console.WriteLine(number + " -> да");
+    else if (number > 7 || number < 1) Console.WriteLine("Указанное число находится вне диапазона");
+    else Console.WriteLine(number + " -> нет");  
+}
+
+Weekend(num);
 
 
