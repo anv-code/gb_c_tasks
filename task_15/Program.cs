@@ -4,7 +4,7 @@
 // 1 -> нет
 
 Console.Clear();
-Console.Write("Введите цифру от 1 до 7 обозачающую день недели: ");
+Console.Write("Введите цифру от 1 до 7 обозначающую день недели: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 void Weekend(int number)

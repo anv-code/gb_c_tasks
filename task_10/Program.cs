@@ -11,4 +11,4 @@ int SecondNumber(int number)
     return (number / 10) % 10;
 }
 
-Console.WriteLine(randomNum + " -> " + SecondNumber(randomNum));
+Console.WriteLine(randomNum + " -> " + SecondNumber(randomNum)); 

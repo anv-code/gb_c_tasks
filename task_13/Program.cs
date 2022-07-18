@@ -10,7 +10,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 void ThirdDig(int number)
 {
     string numberStr = Convert.ToString(number);
-    
+
     if (numberStr.Length > 2) Console.WriteLine($"{number} -> {numberStr[2]}");
     else Console.WriteLine($"{number} -> Третьей цифры нет");
 }
