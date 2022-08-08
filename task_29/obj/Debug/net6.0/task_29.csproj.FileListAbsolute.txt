@@ -1,0 +1,15 @@
+/home/gnt/RiderProjects/gb_c/task_29/bin/Debug/net6.0/task_29
+/home/gnt/RiderProjects/gb_c/task_29/bin/Debug/net6.0/task_29.deps.json
+/home/gnt/RiderProjects/gb_c/task_29/bin/Debug/net6.0/task_29.runtimeconfig.json
+/home/gnt/RiderProjects/gb_c/task_29/bin/Debug/net6.0/task_29.dll
+/home/gnt/RiderProjects/gb_c/task_29/bin/Debug/net6.0/task_29.pdb
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.csproj.AssemblyReference.cache
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.GeneratedMSBuildEditorConfig.editorconfig
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.AssemblyInfoInputs.cache
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.AssemblyInfo.cs
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.csproj.CoreCompileInputs.cache
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.dll
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/refint/task_29.dll
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.pdb
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/task_29.genruntimeconfig.cache
+/home/gnt/RiderProjects/gb_c/task_29/obj/Debug/net6.0/ref/task_29.dll
