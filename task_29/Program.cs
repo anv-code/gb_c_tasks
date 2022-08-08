@@ -7,17 +7,25 @@ Console.WriteLine("Полученный массив: ");
 
 int[] arr = new int[8];
 
-Console.Write("[");
+MethodArr();
 
-for (int i = 0; i < arr.Length; i++)
+void MethodArr()
 {
-  int randomNum = new Random().Next(0, 100);
+  Console.Write("[");
+
+  for (int i = 0; i < arr.Length; i++)
+  {
+    int randomNum = new Random().Next(0, 100);
   
-  if (i != arr.Length - 1) Console.Write((arr[i] = randomNum) + ", ");
-  else Console.Write(arr[i] = randomNum);
+    if (i != arr.Length - 1) Console.Write((arr[i] = randomNum) + ", ");
+    else Console.Write(arr[i] = randomNum);
+  }
+
+  Console.Write("]");
+  Console.WriteLine(); 
 }
 
-Console.Write("]");
-Console.WriteLine();
+
+
 
 
