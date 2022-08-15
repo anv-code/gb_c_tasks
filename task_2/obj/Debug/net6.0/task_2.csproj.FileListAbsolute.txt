@@ -13,3 +13,4 @@
 /home/gnt/RiderProjects/gb_c/task_2/obj/Debug/net6.0/task_2.pdb
 /home/gnt/RiderProjects/gb_c/task_2/obj/Debug/net6.0/task_2.genruntimeconfig.cache
 /home/gnt/RiderProjects/gb_c/task_2/obj/Debug/net6.0/ref/task_2.dll
+/home/av/RiderProjects/gb_c/task_2/obj/Debug/net6.0/task_2.pdb
