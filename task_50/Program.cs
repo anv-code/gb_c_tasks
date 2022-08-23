@@ -52,7 +52,7 @@ void PrintMatrix(int[,] matrix)
 
 void PrintNumber(int[,] matrix, int ElRowPos, int ElColPos)
 {
-  if (ElRowPos <= matrix.GetLength(0) & ElColPos <= matrix.GetLength(1))
+  if (ElRowPos <= matrix.GetLength(0) && ElColPos <= matrix.GetLength(1))
   {
     Console.Write($"{ElRowPos}, {ElColPos} -> {matrix[ElRowPos - 1, ElColPos - 1]}");
   }
