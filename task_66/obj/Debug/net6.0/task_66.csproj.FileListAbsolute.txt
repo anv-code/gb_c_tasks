@@ -1,0 +1,15 @@
+/home/av/RiderProjects/gb_c/task_66/bin/Debug/net6.0/task_66
+/home/av/RiderProjects/gb_c/task_66/bin/Debug/net6.0/task_66.deps.json
+/home/av/RiderProjects/gb_c/task_66/bin/Debug/net6.0/task_66.runtimeconfig.json
+/home/av/RiderProjects/gb_c/task_66/bin/Debug/net6.0/task_66.dll
+/home/av/RiderProjects/gb_c/task_66/bin/Debug/net6.0/ref/task_66.dll
+/home/av/RiderProjects/gb_c/task_66/bin/Debug/net6.0/task_66.pdb
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.csproj.AssemblyReference.cache
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.GeneratedMSBuildEditorConfig.editorconfig
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.AssemblyInfoInputs.cache
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.AssemblyInfo.cs
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.csproj.CoreCompileInputs.cache
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.dll
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/ref/task_66.dll
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.pdb
+/home/av/RiderProjects/gb_c/task_66/obj/Debug/net6.0/task_66.genruntimeconfig.cache
